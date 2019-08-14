@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629390677881",
+    "firebase_url": "https://project-team-portal.firebaseio.com",
+    "project_id": "project-team-portal",
+    "storage_bucket": "project-team-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629390677881:android:7eb6e43679674c62",
+        "android_client_info": {
+          "package_name": "com.example.projectteamportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629390677881-e8na3e6fb2d9qun8kia8ko24evrgadmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectteamportal",
+            "certificate_hash": "ea7f97b6a28ecb3052ae7417d1004664d7f76262"
+          }
+        },
+        {
+          "client_id": "629390677881-njho72821aq0kvvimiagumvbhdqu3fcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPzzsqEh6OLDfIPTYwlV8I8RfpvftpRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629390677881-njho72821aq0kvvimiagumvbhdqu3fcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
